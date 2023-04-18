@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "-----------------------------INTERNSHIP PROJECT-----------------------------"
+echo -n "Linux Automation using cron jobs"
+echo -e "\nGood \t Bye \t All"
